@@ -6,6 +6,7 @@
     <title>Laravel - Home</title>
 </head>
 <body>
-    Página Home
+    <h1>{{ config('app.name') }}</h1>
+    <p>Página Home</p>
 </body>
 </html>
