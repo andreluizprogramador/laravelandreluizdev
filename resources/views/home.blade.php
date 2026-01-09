@@ -6,6 +6,6 @@
     <title>Laravel - Home</title>
 </head>
 <body>
-    Home
+    Página Home
 </body>
 </html>
